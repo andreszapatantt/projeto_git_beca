@@ -1,1 +1,7 @@
-print("Helo beca data 2024")
+def funcioncita(textito):
+    return print(textito + otro)
+
+textito = "textito"
+otro = " tema"
+
+funcioncita(textito)
